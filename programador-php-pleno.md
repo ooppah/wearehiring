@@ -19,7 +19,8 @@ entenda a importância de um bom feedback.
 
 ### Requisitos
 
-* Graduado em ciências da computação / Análise e Desenvolvimento de Sistemas / Sistemas de informação;
+* Ter cursado pelo 6 semestres de ciências da computação, informática ou engenharia; OU
+* Ou possuir graduação tecnologica em Análise e Desenvolvimento de Sistemas ou Sistemas de informação;
 * Conhecimento em PHP 5.6 / 7+;
 * Experiência comprovada de pelo menos 3 anos em desenvolvimento de sistemas com PHP (Sites em WordPress não conta, tá? 😂);
 * Sua última experiência profissional ter sido com PHP e Laravel 5;
