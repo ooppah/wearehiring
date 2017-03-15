@@ -4,23 +4,22 @@
 
 O [Ooppah](https://www.ooppah.com.br) é uma rede social desenvolvida para produtores de elenco, agentes, agências e artistas. Um sistema que abriga atores 
 e atrizes de todo o Brasil e os melhores profissionais do mercado. O site contém filtros inteligentes para buscas refinadas 
-e diversas ferramentas para facilitar o trabalho, expandir oportunidades e otimizar o dia-a-dia. Todas as informações do artista 
-que você procura estão reunidas em um único lugar: no Ooppah.
+e diversas ferramentas para facilitar o trabalho, expandir oportunidades e otimizar o dia-a-dia de artistas e produtores. Tudo reunido em um único lugar: no Ooppah.
 
 Nossa stack conta com PHP 5/7, nginx, apache, memcached. Em nosso ambiente de desenvolvimento nós utilizamos Docker! E nossas
 máquinas tem seus provisionamentos distribuídos entre AWS, Linode e Digital Ocean. Nossos projetos futuros incluem ElasticSearch,
 Redis, docker containers, GraphQL, CI e muitas outras coisas bacanas.
 
 Estamos em busca de um desenvolvedor PHP pleno para se integrar ao nosso time e nos ajudar a dar uma vazão maior às nossas
-demandas interna, que giram em torno do crescimento contínuo dos nossos projetos, com qualidade e respeitando nossos valores.
-Trabalhamos com gestão sem gerentes e procuramos por profissionais auto-gerenciáveis, comprometidos com o trabalho, 
-que aceitem desafios, honrem compromissos, com alto nível de domínio da linguagem, com boa comunicação (fala e escrita) e 
-entenda a importância de um bom feedback.
+demandas internas, que giram em torno do crescimento contínuo dos nossos projetos, com qualidade e respeito aos nossos valores.
+Trabalhamos com gestão sem gerentes, por isso procuramos  profissionais auto-gerenciáveis, comprometidos com o trabalho, 
+que aceitem desafios, honrem compromissos, com alto nível de domínio da linguagem, com boa comunicação (falada e escrita) e 
+entendam a importância de um bom feedback.
 
 ### Requisitos
 
-* Ter cursado pelo 6 semestres de ciências da computação, informática ou engenharia; OU
-* Ou possuir graduação tecnologica em Análise e Desenvolvimento de Sistemas ou Sistemas de informação;
+* Ter cursado pelo menos 6 semestres de ciências da computação, informática ou engenharia; 
+* Ou possuir graduação tecnológica em Análise e Desenvolvimento de Sistemas ou Sistemas de informação;
 * Conhecimento em PHP 5.6 / 7+;
 * Experiência comprovada de pelo menos 3 anos em desenvolvimento de sistemas com PHP (Sites em WordPress não conta, tá? 😂);
 * Sua última experiência profissional ter sido com PHP e Laravel 5;
@@ -34,11 +33,12 @@ entenda a importância de um bom feedback.
 
 ### Plus
 
-* Conhecimento dos fluxos e trabalhos envolvidos no front-end. Automatizaços de tarefas; Pre-processadores; 
+* Conhecimento dos fluxos e trabalhos envolvidos no front-end. Automatizações de tarefas; Pre-processadores; 
 Frameworks semelhantes à angular, Vue, etc;
 * Já ter tido contato com AWS, Linode e Digital Ocean;
-* Possui experiência em serviços de cobrança recorrente;
-* Conhecimento Integrações e APIs
+* Possuir experiência em serviços de cobrança recorrente;
+* Conhecimento Integrações e APIs;
+* Yii Framework.
 
 ### Regime de contratação
 Pessoa Jurídica
@@ -60,7 +60,7 @@ for compatível com o mercado, e nos convencer, nós investimos. Simples assim!
 ### Se interessou? Então envie um email para mauricio@ooppah.com com os seguintes dados:
 * Curriculum Vitae com foto e experiências profissionais com referências;
 * Informar a pretensão salarial e o motivo do investimento, como informado no item "Remuneração";
-* Link Github ou Bitbucket e de projetos que contribui;
+* Link Github ou Bitbucket e de projetos que contribuiu;
 * Links de artigos pulicados (Medium, blog que contribua ou site pessoal), caso possua.
 * Link Perfil do LinkedIn, caso possua;
 * Link Perfil do Facebook.
